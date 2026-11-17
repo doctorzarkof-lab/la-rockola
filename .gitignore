@@ -1,0 +1,23 @@
+# Generado al compilar
+out/
+dist/
+manifest.txt
+*.zip
+*.class
+herramientas/out/
+entrada/
+instalador/
+portable/
+
+# Tus datos (música, fotos y listas)
+musica/
+portadas/
+canciones.txt
+playlists.txt
+
+# Editor
+.vscode/
+
+# Notas personales
+lista
+detras de pantalla/
